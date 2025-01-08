@@ -3,8 +3,13 @@
 1. Fetches the content of each agency website.
 2. Extracts key information: meta description, headings, and a snippet of the main content.
 3. Checks for the presence of specified keywords.
-4. Uses OpenAI's GPT model to analyze the extracted information and make a decision about whether it belongs to a digital agency.
-5. Stores the results (URL, domain, approval status, decision explanation, and found keywords) in a CSV file.
+4. Uses Gemini's GPT model ( *gemini-1.5-flash* ) to analyze the extracted information and make a decision about whether it belongs to a digital agency.
+5. Stores the results ( *URL, domain, approval status, decision explanation, and found keywords* ) in a CSV file.
+
+### Demo
+
+[![Watch the video](https://img.youtube.com/vi/GCsVrfubTz4/0.jpg)](https://youtu.be/GCsVrfubTz4)
+
 
 ### Steps to Run:
 
