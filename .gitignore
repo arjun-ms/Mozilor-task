@@ -1,3 +1,4 @@
 .env
 agency_verification_*
+results_*
 venv/
