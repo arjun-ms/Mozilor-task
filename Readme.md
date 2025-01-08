@@ -20,7 +20,7 @@
 
 2. Install the required libraries: 
     ```
-    $ pip install requests beautifulsoup4 openai
+    $ pip install -r requirements.txt
     ```
 
 3. Rename the `.localenv` file to `.env`  and add your actual Gemini API key
