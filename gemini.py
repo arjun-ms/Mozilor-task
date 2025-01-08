@@ -116,35 +116,35 @@ def main():
     # ]
 
     agencies = [
-        "https://www.blackwelldigital.com"
-        "https://addurance.com"
-        "https://andanotherday.com"
-        "http://mosaicpowered.com"
-        "https://kafedigitalmarketing.com"
-        "https://smashbeatmedia.com"
-        "https://www.simplicitykey.ca"
-        "https://dasweb.ca"
-        "https://brawnmediany.com/"
-        "https://www.clairejarrett.com/"
-        "https://www.generaxion.com/"
-        "https://keiyo.fr"
-        "https://xtego.com"
-        "https://jooren.marketing"
-        "https://nodosnet.com"
-        "https://www.it-webmedia.de/"
-        "https://www.facebook.com100087619837431"
-        "https://webdigital.ro/"
-        "http://www.nettowerbung.ch"
-        "https://Gabriel0226ElectricistasRD@gmail.com"
-        "https://www.yong9ai.com/"
-        "https://promonorge.no"
-        "https://digitalbrothers.it/"
-        "https://dasweb.ca"
-        "https://www.alemayohu@gmail.com"
-        "https://www.altosor-communication.com/"
-        "https://www.sardegnainnova.com"
-        "https://www.tactikmedia.com/"
-        "https://talosabogados.com/"
+        "https://www.blackwelldigital.com",
+        "https://addurance.com",
+        "https://andanotherday.com",
+        "http://mosaicpowered.com",
+        "https://kafedigitalmarketing.com",
+        "https://smashbeatmedia.com",
+        "https://www.simplicitykey.ca",
+        "https://dasweb.ca",
+        "https://brawnmediany.com/",
+        "https://www.clairejarrett.com/",
+        "https://www.generaxion.com/",
+        "https://keiyo.fr",
+        "https://xtego.com",
+        "https://jooren.marketing",
+        "https://nodosnet.com",
+        "https://www.it-webmedia.de/",
+        "https://www.facebook.com100087619837431",
+        "https://webdigital.ro/",
+        "http://www.nettowerbung.ch",
+        "https://Gabriel0226ElectricistasRD@gmail.com",
+        "https://www.yong9ai.com/",
+        "https://promonorge.no",
+        "https://digitalbrothers.it/",
+        "https://dasweb.ca",
+        "https://www.alemayohu@gmail.com",
+        "https://www.altosor-communication.com/",
+        "https://www.sardegnainnova.com",
+        "https://www.tactikmedia.com/",
+        "https://talosabogados.com/",
     ]
     
     results = []
